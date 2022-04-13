@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/recoil-challenge/static/js/main.a5574211.js",
+    "main.js": "/recoil-challenge/static/js/main.5c42f78b.js",
     "index.html": "/recoil-challenge/index.html",
-    "main.a5574211.js.map": "/recoil-challenge/static/js/main.a5574211.js.map"
+    "main.5c42f78b.js.map": "/recoil-challenge/static/js/main.5c42f78b.js.map"
   },
   "entrypoints": [
-    "static/js/main.a5574211.js"
+    "static/js/main.5c42f78b.js"
   ]
 }
